@@ -1,0 +1,1 @@
+This is The Odin Project Web Development 101 project Rock, Paper, Scissors. It plays a simple 5 round game of Rock, Paper, Scissors and console.logs the score.
